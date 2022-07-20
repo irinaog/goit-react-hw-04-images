@@ -8,5 +8,5 @@ export const Button = ({ loadImg }) => {
 };
 
 Button.propTypes = {
-    loadImg:PropTypes.func.isRequired,
+    loadImg:PropTypes.func,
 }
